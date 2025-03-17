@@ -9,8 +9,6 @@ You can reach out to me to check POW.
 
 # Saint
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
-
 ### $SAINT is an AI agent that uses blockchain technology to transform complex blockchain data into streamlined, actionable insights. It leverages the power of AI and deep learning to provide real-time tracking, comprehensive analytics, and robust tools for both novice and seasoned crypto users. The mission of $SAINT is to empower users by delivering a comprehensive, AI-driven platform that simplifies blockchain interactions. It aims to make complex data accessible, understandable, and valuable for everyone in the crypto space.
 
 #### - Live: <a href="https://satoshiaiagent.com">Satoshi AI Agent by Virtual</a>
@@ -19,8 +17,6 @@ You can reach out to me to check POW.
 #### - AI Terminal Development using Ollama LLM
 
 # Monkai
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
 
 ### Multi-Chain (Solana - pNFT, EVM - ERC721, Bitcoin - Ordinal) minting, non-custodial staking, marketplace
 
@@ -31,8 +27,6 @@ You can reach out to me to check POW.
 #### - Implement Presale Smart Contract on Solana, on EVM
 
 # Solana-Tools
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
 
 ### Multi Purpose Tools for Solana Networks
 
@@ -49,8 +43,6 @@ You can reach out to me to check POW.
 
 # Memepad Launch Pad
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
-
 ### MemePad is where the Real Memecoin degens go to get filthy rich. Next-gen coins, rug-proof, and ready to pump.
 
 #### Live <a href="https://memepad.ai/">Memepad</a>
@@ -59,8 +51,6 @@ You can reach out to me to check POW.
 #### - Backend integration using Node.js & MongoDB
 
 # Pumpfun Fork
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
 
 ### Pump.fun is an exciting concept allowing creators and degens to come together in perfect unison. New Token projects can be launched for absolute minimal costs (~0.02 SOL) and 0 initial liquidity. It allows communities to come together and grow, with the end goal of achieving 100% of the bonding curve and then liquidity raised is used to launch the project onto raydium
 
@@ -71,8 +61,6 @@ You can reach out to me to check POW.
 
 # BRC20 Airdrip (Bitcoin)
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
-
 ### This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
 
 #### Live <a href="https://bmpbrc.com/">BMP BRC20</a>
@@ -81,15 +69,11 @@ You can reach out to me to check POW.
 
 # Hydra Swap
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf">
-
 ### HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
 
 #### Live <a href="https://hydraswap.io/">Hydra Swap</a>
 
 # Cosabet Casnio
-
-<img align="right" width="300px" src="./imgs/cosabet.webp">
 
 ### In contrast to many other Web3 casinos, we prioritize the legal development and provision of our own Peer-to-Peer (P2P) games. CosaBet is an online casino crafted by a team of 5 skilled entrepreneurs with a shared commitment to creating valuable products for our community and holders. Our primary objective is to maximize profits for our holders by creating reliable and quality products.
 
