@@ -7,6 +7,9 @@ Dex, DeFi, NFT Projects - minting, staking, marketplace, borrow/lending, raffle/
 Most of the projects are under private status since I've signed NDA with my clients.
 You can reach out to me to check POW.
 
+## Contact
+- Telegram [frankeindev](https://t.me/frankeindev)
+
 # Saint
 
 ### $SAINT is an AI agent that uses blockchain technology to transform complex blockchain data into streamlined, actionable insights. It leverages the power of AI and deep learning to provide real-time tracking, comprehensive analytics, and robust tools for both novice and seasoned crypto users. The mission of $SAINT is to empower users by delivering a comprehensive, AI-driven platform that simplifies blockchain interactions. It aims to make complex data accessible, understandable, and valuable for everyone in the crypto space.
